@@ -1,0 +1,17 @@
+{
+  "name": "cypressazima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open",
+    "test": "cypress run --spec cypress/integration/first.test.spec.js --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
