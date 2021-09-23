@@ -1,5 +1,5 @@
 {
-  "integrationFolder": "cypress/integration/examples",
+  "integrationFolder": "cypress/integration/",
   "reporter": "junit",
   "reporterOptions": {
     "mochaFile": "tests/test-output-[hash].xml",
